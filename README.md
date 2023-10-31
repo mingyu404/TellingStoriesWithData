@@ -4,8 +4,8 @@
 Welcome to my public portfolio for Telling Stories with Data at CMU! Here is where all the cool work I've been up to 😎
 
 ## Quick Links
-- Web page URL: https://mingyu404.github.io/TellingStoriesWithData/
-- This repository: https://github.com/mingyu404/TellingStoriesWithData/
+- Web page URL: [https://mingyu404.github.io/TellingStoriesWithData/](https://mingyu404.github.io/TellingStoriesWithData/)
+- This repository: [https://github.com/mingyu404/TellingStoriesWithData/](https://github.com/mingyu404/TellingStoriesWithData/)
 
 ## Assignments
 - Data visualization #1: [Visualizing Government Debt](visualizing-government-debt)
