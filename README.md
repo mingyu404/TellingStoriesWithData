@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing government debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [Home Page](https://cmustudent.github.io/tswd-portfolio-templates/) | [Visualizing Government Debt](visualizing-government-debt) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
 # Portfolio
 Welcome to my public portfolio for Telling Stories with Data at CMU! Here is where all the cool work I've been up to 😎
@@ -13,9 +13,9 @@ Welcome to my public portfolio for Telling Stories with Data at CMU! Here is whe
   
 ## Final Project
 A high-level description will be provided later 😊
-- [final project I](final-project-part-one)
-- [final project II](final-project-part-two)
-- [final project III](final-project-part-three)
+- [Final Project I](final-project-part-one)
+- [Final Project II](final-project-part-two)
+- [Final Project III](final-project-part-three)
   
 ---
 
