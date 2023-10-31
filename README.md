@@ -4,15 +4,15 @@
 Welcome to my public portfolio for Telling Stories with Data at CMU! Here is where all the cool work I've been up to 😎
 
 ## Quick Links
-- [Web Page](https://mingyu404.github.io/TellingStoriesWithData/): Visit my portfolio's dedicated web page.
-- [Repository](https://github.com/mingyu404/TellingStoriesWithData/): Explore the GitHub repository where all the project files are stored.
+- Web page URL: https://mingyu404.github.io/TellingStoriesWithData/
+- This repository: https://github.com/mingyu404/TellingStoriesWithData/
 
 ## Assignments
-- Data visualization #1: [Visualizing government Debt](visualizing-government-debt)
+- Data visualization #1: [Visualizing Government Debt](visualizing-government-debt)
 - Assignment 3&4: [Critique by Design](critique-by-design)
   
 ## Final Project
-Introduction: 
+A high-level description will be provided later 😊
 - [final project I](final-project-part-one)
 - [final project II](final-project-part-two)
 - [final project III](final-project-part-three)
