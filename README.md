@@ -36,4 +36,4 @@ Embarking on this academic journey, I want to equip myself with a comprehensive 
 - **User-Centered Design**: Deepening my understanding of design thinking principles to create visualizations that are not only informative but also user-friendly, and applying good design practices in data visualization, including color theory, text placement, layout strategies, and selecting the appropriate type of visualization for different datasets.
 - **Ethical Data Visualization**: Understanding the responsibilities that come with visualizing data, striving to ensure accuracy, fairness, and integrity in all my visual storytelling endeavors.
 
-I am enthusiastic about the journey ahead and am committed to making the most out of this learning experience, striving to become a proficient and responsible data storyteller.
+I am enthusiastic about the journey ahead and committed to making the most out of this learning experience, striving to become a proficient and responsible data storyteller.
