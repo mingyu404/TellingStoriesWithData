@@ -1,4 +1,4 @@
-| [Home Page](https://mingyu404.github.io/TellingStoriesWithData/) | [Visualizing Government Debt](visualizing-government-debt) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
+| [Home Page](https://mingyu404.github.io/TellingStoriesWithData/) | [Tableau Exercise](tableau_exercise) | [Visualizing Government Debt](visualizing-government-debt) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
 # Portfolio
 Welcome to my public portfolio for Telling Stories with Data at CMU! Here is where all the cool work I've been up to 😎
@@ -7,7 +7,8 @@ Welcome to my public portfolio for Telling Stories with Data at CMU! Here is whe
 - Web page URL: [https://mingyu404.github.io/TellingStoriesWithData/](https://mingyu404.github.io/TellingStoriesWithData/)
 - This repository: [https://github.com/mingyu404/TellingStoriesWithData/](https://github.com/mingyu404/TellingStoriesWithData/)
 
-## Assignments
+## Exercises
+- Tableau In-class Exercise: [Tableau Exercise](tableau_exercise)
 - Data visualization #1: [Visualizing Government Debt](visualizing-government-debt)
 - Assignment 3&4: [Critique by Design](critique-by-design)
   
