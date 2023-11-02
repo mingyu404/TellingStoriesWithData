@@ -9,7 +9,7 @@ Welcome to my public portfolio for Telling Stories with Data at CMU! Here is whe
 
 ## Exercises
 - Tableau In-class Exercise: [Tableau Exercise](https://mingyu404.github.io/TellingStoriesWithData/tableau_exercise.html)
-- Data visualization #1: [Visualizing Government Debt](visualizing-government-debt)
+- Data Visualization #1: [Visualizing Government Debt](visualizing-government-debt)
 - Assignment 3&4: [Critique by Design](critique-by-design)
   
 ## Final Project
