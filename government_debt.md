@@ -49,27 +49,25 @@ This heat map provides an overview of the government debt-to-GDP ratio for 41 co
 
 # Decade Overview: Average Government Debt as a Percentage of GDP (2012-2022)
 
-This data visualization provides a detailed view of the average debt-to-GDP ratio for 42 countries during the past decade, based on data from the [OECD](http://data.oecd.org). It employs a world map to place fiscal imbalances in a global context, with a sequential color scheme that effectively conveys the intensity of debt levels -- darker hues signify higher ratios, thereby creating a visual hierarchy that emphasizes the severity of the economic situation.
+This data visualization provides a view of the average debt-to-GDP ratio for 42 countries during the past decade, based on data from the [OECD](http://data.oecd.org). It employs a world map to place fiscal imbalances in a global context, with a sequential color scheme that effectively conveys the intensity of debt levels -- darker hues signify higher ratios, thereby creating a visual hierarchy that emphasizes the severity of the economic situation.
 
 By converting the data type of "location" to geographical data type, the visualization enables a direct association between numerical data and physical geography. This approach enhances audience comprehension by anchoring abstract figures to the real-world outlines of nations and regions.
 
-Attention is drawn to the five countries with the most considerable government debt ratios within this period, with Japan leading at 238.4% and followed by Greece, Italy, Portugal, and the United States. These highlights on the map serve to initiate a dialogue on the underlying factors that contribute to these countries' economic states.
+Attention is drawn to the five countries with the most considerable government debt ratios within this period, with Japan leading at 238.4% and followed by Greece, Italy, Portugal, and the United States. These marks on the map serve to initiate a dialogue on the underlying factors that contribute to these countries' economic states.
 
 Unanalyzed regions remain intentionally uncolored, keeping the viewer's attention on the data presented and creating a stark contrast that further delineates the focus areas. Through this visualization, the story unfolds of economic strategies, challenges, and broader implications for policy and global economic stability, inviting the viewer to consider the potential trajectories of these nations' fiscal futures.
 
 ---
-<div class='tableauPlaceholder' id='viz1699228511357' style='position: relative'><noscript><a href='#'><img
-                alt='Decade Overview: Average Government Debt as a Percentage of GDP (2012-2022)Average debt-to-GDP ratio for 42 countries from 2012 to 2022. Color intensity indicating higher levels of debt. Top 5 countries with the highest debt ratios are Japan (238.4%), G '
-                src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;go&#47;government_debt&#47;GovernmentDebt1995-20223&#47;1_rss.png'
+<div class='tableauPlaceholder' id='viz1699307884451' style='position: relative'><noscript><a href='#'><img
+                alt='Decade Overview: Average Government Debt as a Percentage of GDP (2012-2022) '
+                src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TT&#47;TTQP4TWPW&#47;1_rss.png'
                 style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
         <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
         <param name='embed_code_version' value='3' />
-        <param name='site_root' value='' />
-        <param name='name' value='government_debt&#47;GovernmentDebt1995-20223' />
-        <param name='tabs' value='no' />
+        <param name='path' value='shared&#47;TTQP4TWPW' />
         <param name='toolbar' value='yes' />
         <param name='static_image'
-            value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;go&#47;government_debt&#47;GovernmentDebt1995-20223&#47;1.png' />
+            value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TT&#47;TTQP4TWPW&#47;1.png' />
         <param name='animate_transition' value='yes' />
         <param name='display_static_image' value='yes' />
         <param name='display_spinner' value='yes' />
@@ -79,7 +77,7 @@ Unanalyzed regions remain intentionally uncolored, keeping the viewer's attentio
         <param name='filter' value='publish=yes' />
     </object></div>
 <script type='text/javascript'>                    
-    var divElement = document.getElementById('viz1699228511357'); 
+    var divElement = document.getElementById('viz1699307884451'); 
     var vizElement = divElement.getElementsByTagName('object')[0]; 
     vizElement.style.width = '100%'; 
     vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px'; 
