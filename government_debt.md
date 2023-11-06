@@ -58,16 +58,18 @@ Attention is drawn to the five countries with the most considerable government d
 Unanalyzed regions remain intentionally uncolored, keeping the viewer's attention on the data presented and creating a stark contrast that further delineates the focus areas. Through this visualization, the story unfolds of economic strategies, challenges, and broader implications for policy and global economic stability, inviting the viewer to consider the potential trajectories of these nations' fiscal futures.
 
 ---
-<div class='tableauPlaceholder' id='viz1699307884451' style='position: relative'><noscript><a href='#'><img
+<div class='tableauPlaceholder' id='viz1699308417905' style='position: relative'><noscript><a href='#'><img
                 alt='Decade Overview: Average Government Debt as a Percentage of GDP (2012-2022) '
-                src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TT&#47;TTQP4TWPW&#47;1_rss.png'
+                src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;go&#47;government_debt&#47;GovernmentDebt1995-20223&#47;1_rss.png'
                 style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'>
         <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
         <param name='embed_code_version' value='3' />
-        <param name='path' value='shared&#47;TTQP4TWPW' />
+        <param name='site_root' value='' />
+        <param name='name' value='government_debt&#47;GovernmentDebt1995-20223' />
+        <param name='tabs' value='no' />
         <param name='toolbar' value='yes' />
         <param name='static_image'
-            value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TT&#47;TTQP4TWPW&#47;1.png' />
+            value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;go&#47;government_debt&#47;GovernmentDebt1995-20223&#47;1.png' />
         <param name='animate_transition' value='yes' />
         <param name='display_static_image' value='yes' />
         <param name='display_spinner' value='yes' />
@@ -77,7 +79,7 @@ Unanalyzed regions remain intentionally uncolored, keeping the viewer's attentio
         <param name='filter' value='publish=yes' />
     </object></div>
 <script type='text/javascript'>                    
-    var divElement = document.getElementById('viz1699307884451'); 
+    var divElement = document.getElementById('viz1699308417905'); 
     var vizElement = divElement.getElementsByTagName('object')[0]; 
     vizElement.style.width = '100%'; 
     vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px'; 
