@@ -6,12 +6,14 @@ This visualization depicts the general government debt-to-GDP ratio across selec
 
 --- 
 ```
+<!DOCTYPE html>
 <iframe src="https://data.oecd.org/chart/7eTy" width="860" height="645" style="border: 0" mozallowfullscreen="true"
     webkitallowfullscreen="true" allowfullscreen="true">
     <a href="https://data.oecd.org/chart/7eTy" target="_blank">
         OECD Chart: General government debt, Total, % of GDP, Annual, 2018
     </a>
 </iframe>
+</html>
 ```
 
 # Government Debt from 1995 to 2022
@@ -20,6 +22,7 @@ This heat map provides an overview of the government debt-to-GDP ratio for 41 co
 
 ---
 ```
+<!DOCTYPE html>
 <div class='tableauPlaceholder' id='viz1699167394136' style='position: relative'><noscript><a href='#'><img
                 alt='Government Debt from 1995 to 2022 (Source: OECD)Total, % of GDP '
                 src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;go&#47;government_debt&#47;GovernmentDebt1995-20222&#47;1_rss.png'
@@ -49,6 +52,7 @@ This heat map provides an overview of the government debt-to-GDP ratio for 41 co
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+</html>
 ```
 
 # Decade Overview: Average Government Debt as a Percentage of GDP (2012-2022)
@@ -63,6 +67,7 @@ Unanalyzed regions remain intentionally uncolored, keeping the viewer's attentio
 
 ---
 ```
+<!DOCTYPE html>
 <div class='tableauPlaceholder' id='viz1699228511357' style='position: relative'><noscript><a href='#'><img
                 alt='Decade Overview: Average Government Debt as a Percentage of GDP (2012-2022)Average debt-to-GDP ratio for 42 countries from 2012 to 2022. Color intensity indicating higher levels of debt. Top 5 countries with the highest debt ratios are Japan (238.4%), G '
                 src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;go&#47;government_debt&#47;GovernmentDebt1995-20223&#47;1_rss.png'
@@ -92,6 +97,7 @@ Unanalyzed regions remain intentionally uncolored, keeping the viewer's attentio
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; 
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+</html>
 ```
 
 # Comparing Data Visualization Methods
