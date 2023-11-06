@@ -94,7 +94,7 @@ Unanalyzed regions remain intentionally uncolored, keeping the viewer's attentio
 </script>
 ```
 
-# Comparing Data Visualization Methods
+# Comparison and Analysis of Data Visualization Methods
 
 ## Bar Chart
 The bar chart provides a clear and straightforward representation of data, where comparisons between countries' general government debt-to-GDP ratios for a specific year are made easy. The vertical bars allow for a quick visual assessment of which countries have higher or lower debt levels. In the 2018 data provided by the [OECD](http://data.oecd.org), we can instantly discern that Japan has the highest government debt to GDP ratio, significantly more than the following countries. Estonia, on the other end, is shown to have the lowest debt ratio in the dataset.
