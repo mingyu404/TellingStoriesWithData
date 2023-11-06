@@ -1,4 +1,4 @@
-| [Home Page](https://mingyu404.github.io/TellingStoriesWithData/) | [Visualizing Trust in News Organizations](/trust_news_organization.html) | [Visualizing Government Debt](/visualizing-government-debt.md) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
+| [Home Page](https://mingyu404.github.io/TellingStoriesWithData/) | [Visualizing Trust in News Organizations](/trust_news_organization.html) | [Visualizing Government Debt](/government_debt.md) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
 # Portfolio
 Welcome to my public portfolio for Telling Stories with Data at CMU! Here is where all the cool work I've been up to 😎
@@ -9,7 +9,7 @@ Welcome to my public portfolio for Telling Stories with Data at CMU! Here is whe
 
 ## Exercises
 - Tableau In-class Exercise: [Visualizing Trust in News Organizations](/trust_news_organization.html)
-- Data Visualization #1: [Visualizing Government Debt](/visualizing-government-debt.md)
+- Data Visualization #1: [Visualizing Government Debt](/government_debt.md)
 - Assignment 3&4: [Critique by Design](critique-by-design)
   
 ## Final Project
