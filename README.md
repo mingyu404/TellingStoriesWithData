@@ -10,7 +10,6 @@ Welcome to my public portfolio for Telling Stories with Data at CMU! Here is whe
 ## Exercises
 - Tableau In-class Exercise: [Visualizing Trust in News Organizations](/trust_news_organization.html)
 - Data Visualization #1: [Visualizing Government Debt](/government_debt.md)
-- [debt](/visualizing-government-debt.md)
 - Assignment 3&4: [Critique by Design](critique-by-design)
   
 ## Final Project
