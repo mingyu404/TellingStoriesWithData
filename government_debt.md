@@ -1,4 +1,4 @@
-| [Home Page](https://mingyu404.github.io/TellingStoriesWithData/) | [Visualizing Trust in News Organizations](/trust_news_organization.html) | [Visualizing Government Debt](/visualizing-government-debt.md) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
+| [Home Page](https://mingyu404.github.io/TellingStoriesWithData/) | [Visualizing Trust in News Organizations](/trust_news_organization.html) | [Visualizing Government Debt](/government_debt.md) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
 # General Government Debt-to-GDP Ratio in 2018
 
