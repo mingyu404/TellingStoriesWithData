@@ -5,14 +5,12 @@
 This visualization depicts the general government debt-to-GDP ratio across selected countries in 2018 using a bar chart. Each bar represents the proportion of a country's debt to its GDP, offering a comparative snapshot of national debt levels. (Data Source: [OECD](http://data.oecd.org))
 
 --- 
-```
 <iframe src="https://data.oecd.org/chart/7eTy" width="860" height="645" style="border: 0" mozallowfullscreen="true"
     webkitallowfullscreen="true" allowfullscreen="true">
     <a href="https://data.oecd.org/chart/7eTy" target="_blank">
         OECD Chart: General government debt, Total, % of GDP, Annual, 2018
     </a>
 </iframe>
-```
 
 # Government Debt from 1995 to 2022
 
