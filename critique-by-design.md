@@ -50,6 +50,7 @@ Each modification was a deliberate step towards a visualization that not only in
 Here's the final redesign of the data visualization:
 
 ---
+
 <div class='tableauPlaceholder' id='viz1700098523120' style='position: relative'><noscript><a href='#'><img
                 alt='Social Time Distribution in the U.S.: Who Do People Spend Their Time with as They Age?Average time spent with others is measured in hours per day, and shown by the age of the respondent.This is based on averages from surveys between 2009 and 2019. '
                 src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;hw&#47;hw34_17000972659030&#47;Sheet1&#47;1_rss.png'
@@ -79,9 +80,11 @@ Here's the final redesign of the data visualization:
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; 
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
 ---
+
 I maintained the line chart representation from the original version, as its capacity to compare trends across various social interactions over time was effective and meaningful. The line graph format naturally lends itself to depicting the fluid nature of time and the gradual shifts in social habits, which is central to the story being told by the data.
 
 I sought not to reinvent but to refine, enhancing the existing strengths of the visualization. For instance, the annotations I introduced serve to highlight key transitions and trends, such as the increase in alone time starting in the 40s and the decline in coworker interaction after retirement in the mid-60s. These notes act as signposts, guiding the viewer through the data's narrative arc and emphasizing the significant moments that collectively chart the course of American social life.
 
-In general, the final redesign of the data visualization, "Social Time Distribution in the U.S.: Who Do People Spend Their Time with as They Age?", presents a more intuitive and insightful exploration of the changing social dynamics across different life stages by applying the modifications mentioned in [Building the Solution ](#Building the Solution)section. My focus was on amplifying clarity, enriching context, and improving the overall visualization quality. The new visualization not only provides information but also strikes a chord with viewers on an individual level, prompting them to contemplate their own social journeys.
+In general, the final redesign of the data visualization, "Social Time Distribution in the U.S.: Who Do People Spend Their Time with as They Age?", presents a more intuitive and insightful exploration of the changing social dynamics across different life stages by applying the modifications mentioned in **Building the Solution** section. My focus was on amplifying clarity, enriching context, and improving the overall visualization quality. The new visualization not only provides information but also strikes a chord with viewers on an individual level, prompting them to contemplate their own social journeys.
