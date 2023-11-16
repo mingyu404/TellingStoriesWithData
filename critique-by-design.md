@@ -4,7 +4,11 @@
 
 Original Data Visualization:  [Who Americans spend their time with, by age](https://ourworldindata.org/time-use#who-do-we-spend-time-with-across-our-lifetime)
 
+--- 
+
 <img width="817" alt="image" src="https://github.com/mingyu404/TellingStoriesWithData/assets/123033972/5ee1be22-f505-4197-b716-88795755e037">
+
+--- 
 
 I selected this visualization for its engaging portrayal of a universal human experience — the allocation of our time. The interactive design provided a nuanced exploration of time spent with others across different ages, which I found innovative and deeply human.
 
@@ -24,7 +28,15 @@ Overall, the above original design looks good to me, but there is still room for
 
 # Testing the Solution & Gathering Feedback
 
-I presented the initial design to my friends, seeking their honest critiques. Here's what surfaced:
+Here is my initial design: 
+
+---
+
+<img width="981" alt="image" src="https://github.com/mingyu404/TellingStoriesWithData/assets/123033972/7c4907d6-914b-4735-baa8-ed80f1762510">
+
+---
+
+I presented this design to my friends, seeking their honest critiques. Here's what surfaced:
 
 - **Student, mid-20s**: Suggested converting minutes to hours for an intuitive grasp of the data. This resonated with me as it aligns with the way we typically think about our day.
 - **Student, mid-20s**: Recommended reducing vertical axis intervals for more granular and clear comparison. This feedback was pivotal, emphasizing the need for precision in visual data storytelling.
