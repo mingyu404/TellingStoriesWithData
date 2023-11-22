@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://mingyu404.github.io/TellingStoriesWithData/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Introduction
 
@@ -20,7 +20,7 @@ Here is part of the process of data processing with Python.
 
 <img width="759" alt="image" src="https://github.com/mingyu404/TellingStoriesWithData/assets/123033972/866796f3-fc8e-489b-b181-5a87360909a6">
 
-Here is the basic information about the filtered dataset. Complete filtered dataset used in this project can be found at [filtered data](filtered_data_final_project).
+Here is the basic information about the filtered dataset.
 
 ```
 motor_vehicle_collision_filtered.info()
@@ -61,6 +61,8 @@ Data columns (total 28 columns):
 dtypes: datetime64[ns](1), float64(4), int64(10), object(13)
 memory usage: 436.6+ MB
 ```
+
+Complete filtered dataset used in this project can be found at [filtered data](https://drive.google.com/file/d/12FEnHLSqzG-Lvxcs3yNbyBPDKON6DXkr/view?usp=drive_link). The data cannot be uploaded to the Github repository since it is too large.
 
 I will explore the relationships among these variables to figure out the pattern of collision numbers by year, region, season, hour, etc. The following is my outline that details how I will use this dataset.
 
