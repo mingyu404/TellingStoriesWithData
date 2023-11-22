@@ -12,7 +12,7 @@ Across the bustling expanse of New York, traffic accidents are an all-too-common
 
 ### Dataset
 
-The data is found at: https://catalog.data.gov/dataset/motor-vehicle-collisions-crashes
+The data is found at: [https://catalog.data.gov/dataset/motor-vehicle-collisions-crashes](https://catalog.data.gov/dataset/motor-vehicle-collisions-crashes)
 
 Since the original data has a lot of N/A values in some columns and repetitive fields, I did some data cleaning and initial EDA to get the new filtered dataset, adding additional variables for more efficient analysis and visualization. 
 
@@ -138,10 +138,13 @@ Will also include some news and reports from other sources to make the discussio
 Present the numbers of injured and killed in a clear format. Break down these figures into pedestrians, cyclists, and motorists to highlight the varying degrees of vulnerability.
 
 **Number of people injured**
+
 <img width="751" alt="image" src="https://github.com/mingyu404/TellingStoriesWithData/assets/123033972/fdc990cc-181a-4282-a937-eac44a192573">
 
 **Number of people killed**
+
 <img width="750" alt="image" src="https://github.com/mingyu404/TellingStoriesWithData/assets/123033972/f556c4e6-d9db-40a3-b1b3-caf2ee8f93ef">
+
 
 ## Conclusion & Call to action
 
