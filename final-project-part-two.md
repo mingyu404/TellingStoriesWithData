@@ -18,9 +18,9 @@
 | Understand the level of existing awareness | How familiar are you with the traffic collision trends in New York? |
 | Assess the impact of the story | Is there anything in the story that prompts you to learn more or change your behavior regarding road safety? |
 | Assess the impact of the story | Did the information presented change your perception of road safety in New York? |
-| Gauge the effectiveness of visualizations | Were the visualizations clear and helpful in understanding the data? |
-| Identify areas for improvement | Were there any parts of the story or visualizations that were unclear or confusing? |
+| Identify areas for improvement | Were there any parts of the story or visualizations that were unclear or confusing? Were the visualizations clear and helpful in understanding the data?  |
 | Identify areas for improvement | Which parts of the storyboard do you think could be enhanced for clarity? |
+| Identify areas for improvement | How effective do you feel the storytelling narrative was? Were there any sections that you think should be expanded upon or condensed for clarity?|
 
 
 ## Interview findings
