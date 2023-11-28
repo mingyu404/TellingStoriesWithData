@@ -1,30 +1,27 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-Text here!
+[Shorthand Link](https://preview.shorthand.com/fifVKlW9IbKE6f65)
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
++ Students, New York residents, frequent visitors, commuters, travelers, and drivers with a connection to New York, since they can directly benefit from increased awareness of collision risks and safety precautions.
++ People interested in urban safety, urban transportation issues, and public health regarding road incidents.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+| Understand the level of existing awareness | How familiar are you with the traffic collision trends in New York? |
+| Assess the impact of the story | Is there anything in the story that prompts you to learn more or change your behavior regarding road safety? |
+| Assess the impact of the story | Did the information presented change your perception of road safety in New York? |
+| Gauge the effectiveness of visualizations | Were the visualizations clear and helpful in understanding the data? |
+| Identify areas for improvement | Were there any parts of the story or visualizations that were unclear or confusing? |
+| Identify areas for improvement | Which parts of the storyboard do you think could be enhanced for clarity? |
 
-
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
@@ -54,9 +51,3 @@ Text here!
 > ...include any final thoughts you have here. 
 
 Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
-
