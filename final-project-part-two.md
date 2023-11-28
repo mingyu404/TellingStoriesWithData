@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page]( https://mingyu404.github.io/TellingStoriesWithData/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
 
@@ -23,7 +23,7 @@ Shorthand Link: [https://preview.shorthand.com/fifVKlW9IbKE6f65](https://preview
 
 ## Interview findings
 
-| Questions                                                    | Interview 1                                                  |
+| Questions                                                    | Interview 1: student, 20's                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | How familiar are you with the traffic collision trends in New York? | Barely know about the exact traffic collision stats of New York, however, I can infer the stats could be terrifying as New York City is super crowded with countless unreasonable traffic designs. |
 | Is there anything in the story that prompts you to learn more or change your behavior regarding road safety? | I did not know following too closely actually can create much more traffic accidents than improper road design, which is assumed to be one fo the major problems of the traffic accidents by me.  I will definitely keep a longer distance than before. |
@@ -31,7 +31,7 @@ Shorthand Link: [https://preview.shorthand.com/fifVKlW9IbKE6f65](https://preview
 | Were there any parts of the story or visualizations that were unclear or confusing? Were the visualizations clear and helpful in understanding the data? | ✅The colored geographical map is very helpful in identifying the severest streets in a very intuitive way. ❌ The histogram chart can be improved. Limit the number of years in the histogram. As there are 7 days in each year stands for 7 different colored histograms, adding too many year dimensions can make the chart very crowded, and not easy to follow the ideas behind the scenes. ❌In the colored geographical map, some words can be added to make the whole illustration more in-depth and give the reader more insights into the evolution of the whole data point. |
 | How effective do you feel the storytelling narrative was? Were there any sections that you think should be expanded upon or condensed for clarity? | No, I think really nice.                                     |
 
-| Questions                                                    | Interview 2                                                  |
+| Questions                                                    | Interview 2, student 20's                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | How familiar are you with the traffic collision trends in New York? | Not quite familiar                                           |
 | Is there anything in the story that prompts you to learn more or change your behavior regarding road safety? | The key takeaway for me is that the decrease in the number of road accidents would not necessarily result in a decrease in injuries and fatalities |
@@ -39,7 +39,7 @@ Shorthand Link: [https://preview.shorthand.com/fifVKlW9IbKE6f65](https://preview
 | Were there any parts of the story or visualizations that were unclear or confusing? Were the visualizations clear and helpful in understanding the data? | ✅ Yes, very clear and helpful. ❌ The characters in the first two pics are a bit hard to read, and I suggest you merge the fatalities graph into the first picture. ❌ the histogram/bar charts are hard to read since they are small and crowded. |
 | How effective do you feel the storytelling narrative was? Were there any sections that you think should be expanded upon or condensed for clarity? | The storytelling is very effective. ❌ I think it would be better if some measures could be proposed about how to improve road safety |
 
-| Questions                                                    | Interview 3                                                  |
+| Questions                                                    | Interview 3, student, 20's                                   |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | How familiar are you with the traffic collision trends in New York? | I am not familiar with the traffic collision trends in New York at all. |
 | Is there anything in the story that prompts you to learn more or change your behavior regarding road safety? | The fast-growing frequency of vehicle collisions during the last decade prompts me to attach more importance to road safety. |
@@ -47,7 +47,7 @@ Shorthand Link: [https://preview.shorthand.com/fifVKlW9IbKE6f65](https://preview
 | Were there any parts of the story or visualizations that were unclear or confusing? Were the visualizations clear and helpful in understanding the data? | ✅ The visualizations are clear and helpful in understanding the data. There are charts and highlights of important data. ❌ The size of the first two visualizations is too small. ❌ the change of the data point on the map is not that obvious, maybe use different colors to distinguish the change or add some annotations. |
 | How effective do you feel the storytelling narrative was? Were there any sections that you think should be expanded upon or condensed for clarity? | I feel the storytelling narrative is effective in presenting information as it is helpful in understanding data and learning facts. |
 
-| Questions                                                    | Interview 4                                                  |
+| Questions                                                    | Interview 4, data analyst working at Washington D.C., 20's|
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | How familiar are you with the traffic collision trends in New York? | Not very familiar. I have been to New York several times though. |
 | Is there anything in the story that prompts you to learn more or change your behavior regarding road safety? | Absolutely. Need to be more conscious in peak hours.         |
