@@ -18,19 +18,15 @@
 | Understand the level of existing awareness | How familiar are you with the traffic collision trends in New York? |
 | Assess the impact of the story | Is there anything in the story that prompts you to learn more or change your behavior regarding road safety? |
 | Assess the impact of the story | Did the information presented change your perception of road safety in New York? |
-| Identify areas for improvement | Were there any parts of the story or visualizations that were unclear or confusing? Were the visualizations clear and helpful in understanding the data?  |
-| Identify areas for improvement | Which parts of the storyboard do you think could be enhanced for clarity? |
+| Identify areas for improvement | Were there any parts of the story or visualizations that were unclear or confusing? Were the visualizations clear and helpful in understanding the data?|
 | Identify areas for improvement | How effective do you feel the storytelling narrative was? Were there any sections that you think should be expanded upon or condensed for clarity?|
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
+| How familiar are you with the traffic collision trends in New York?| Barely know about the exact traffic collision stats of New York. However, I can infer the stats could be terrifying as New York City is super crowded with countless unreasonable traffic designs.|             |             |
 |                         |                                |             |             |
 |                         |                                |             |             |
 
