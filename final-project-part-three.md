@@ -10,23 +10,24 @@ I changed almost all of my visualizations from Part II. Here is the details and 
 
 - **Basic**
 
-  + Aside from Tableau, I used Common Ninja and Flourish as visualization tools since I found them fit better with Shorthand in terms of size and interaction. I found although Tableau is good at dealing with large dataset and doing some initial sketches and EDA to observe the patterns and distributions of variables, these online tools, Common Ninja and Flourish, provides more options for visualization and are more flexible if and only if I can narrow down the range/size of data to show -- they are not convenient or not able to use an imported data. Therefore, when I used these online tools, I just manually entered the data that I wanted to show. However, the drawback is the free plan of Common Ninja cannot hide the ads, which is relatively evident (but acceptable I think)...
+  + Aside from Tableau, I used Common Ninja and Flourish as visualization tools since I found them fit better with Shorthand in terms of size and interaction. I found although Tableau is good at dealing with large dataset and doing some initial sketches and EDA to observe the patterns and distributions of variables, these online tools, Common Ninja and Flourish, provides more options for visualization and are more flexible if and only if I can narrow down the range/size of data to show -- they are not convenient or not able to use an imported data. Therefore, when I used these online tools, I just manually entered the data that I wanted to show. However, the drawback is the free plan of Common Ninja cannot hide the ads, which is relatively evident (but acceptable, I think)...
   + Changed the background color for all of my visualizations to better sync the theme color.
   + Deleted the news section based on feedback from Part II.
   + Changed the layout of the entire storyboard to be vertical in all sections for consistency.
-  + Changed the color of highlighted numbers to better differentiate them from the headings, which I think is particularly useful in the *factors contributing to collisions section*.
+  + I changed the color of the highlighted numbers to better differentiate them from the headings, which I think is particularly useful in the *factors contributing to collisions section*.
   + Change since Part 1: I changed the original bubble chart visualization for *factors contributing to collision in New York* to word cloud. The reason is that the word cloud can clearly show the full and more words. I don't make it interactive and use a bar chart to show the exact numbers  because I think it is unnecessary and redundant -- I want people to notice the main factors contributing to collisions without distraction by numbers. In this case, I think different sizes based on exact numbers are already enough for intuitive understanding.
 
 - **Visualizations of the number of collisions, people injured and killed from 2021 to 2022**
 
-  + I used 3 line charts for these three elements for consistency. Also, the line chart can better illustrate the change/trend over time. It's not practical to put them all in one chart due to scale differences as mentioned in *Part II Identified changes for Part III*.
+  + I used 3 line charts for these three elements for consistency. Also, the line chart can better illustrate the change/trend over time. It's not practical to put them all in one chart due to scale differences, as mentioned in *Part II Identified changes for Part III*.
 
 - **Map showing the collision frequency from 2012 to 2022**
 
   + I used a circle to highlight the critical change in data points over time in the map so that such change can be more evident to the audience, reflecting on the interview results.
   + Also, I changed the transitions to "Fade" to better show the gradual change over time. This can also make the transitions more obvious to readers.
 
-  ![image-20231204023704282](/Users/zhangmingyu/Library/Application Support/typora-user-images/image-20231204023704282.png)
+   <img width="924" alt="image" src="https://github.com/mingyu404/TellingStoriesWithData/assets/123033972/f0c21719-7066-47f9-9cb1-f146d48071c4">
+
 
 - **Bar charts of the most dangerous streets**
 
@@ -40,7 +41,7 @@ I changed almost all of my visualizations from Part II. Here is the details and 
 
 - **Collision frequency by weekday & by season**
 
-  + I dropped the unreadable bar charts and also used the area chart for these two visualizations since area plots, in this case, can better show the consistency and the general pattern and importantly, are more readable.
+  + I dropped the unreadable bar charts and also used the area chart for these two visualizations since area plots, in this case, can better show the consistency and the general pattern and, importantly, are more readable.
   + I also condensed the number of years displayed since I think it is unnecessary to include all years if their patterns are similar. Therefore, including just a few years can show the general pattern or specific anomaly. 
 
 - **Main vehicle types**
@@ -49,9 +50,9 @@ I changed almost all of my visualizations from Part II. Here is the details and 
 
 - **Injuries/fatalities by motorists, pedestrians, and cyclists**
 
-  + Previously, I plotted three lines in one chart for these 3 groups of people, but I later found that the value in the Y-axis would be wrong and so would the position of lines if I plotted three lines in one chart in Tableau. Also, I found the initial visualization is not that intuitive and meaningful since people can only know motorists account for the greatest share of injuries and fatalities through the line charts, with no specific numbers or interesting findings, which seems to be common sense in this story setting...Therefore, I made the following modifications:
-  + I calculated the average percentages for these three groups of people in terms of injuries and fatalities and found the proportions of injuries are quite consistent over the past 5 years, so I used a pictogram chart to show the average percentage of motorists, pedestrians, and cyclists directly. Hovering over the visualization lets the reader see the exact percentage figures directly. Also, different icons in this case, also help intuitive understanding. I did not separate these three groups of people into three individual bars here since my intention is not to compare the proportions but to show the average percentages for readers.
-  + In terms of the *Average Proportion of Fatalities*, after calculating the percentage share, I found an essential fact that pedestrian deaths rose from 38% to 50%, while fatalities among motorists have seen a decrease from 52% to 43% from 2020 to 2022. I think it is quite important for people to learn about the change in proportional fatalities/vulnerability over the years. To visualize this newly found fact, I chose to use bar charts with icons to directly show the change between 2020 and 2022, which I think is more intuitive for people when learning this fact. I don't use the pie chart in this case since the absolute numeric changes are not that much -- even though a 12% proportional fatalities increase to pedestrians actually means a great difference -- so a pie chart cannot show such changes well and will make it hard for people to compare proportions in two different years. 
+  + Previously, I plotted three lines in one chart for these 3 groups of people, but I later found that the value in the Y-axis would be wrong, and so would the position of lines if I plotted three lines in one chart in Tableau. Also, I found the initial visualization is not that intuitive and meaningful since people can only know motorists account for the greatest share of injuries and fatalities through the line charts, with no specific numbers or interesting findings, which seems to be common sense in this story setting...Therefore, I made the following modifications:
+  + I calculated the average percentages for these three groups of people in terms of injuries and fatalities and found the proportions of injuries are quite consistent over the past 5 years, so I used a pictogram chart to show the average percentage of motorists, pedestrians, and cyclists directly. Hovering over the visualization lets the reader see the exact percentage figures directly. Also, different icons, in this case, also help with intuitive understanding. I did not separate these three groups of people into three individual bars here since my intention is not to compare the proportions but to show the average percentages for readers.
+  + In terms of the *Average Proportion of Fatalities*, after calculating the percentage share, I found an essential fact that pedestrian deaths rose from 38% to 50%, while fatalities among motorists have seen a decrease from 52% to 43% from 2020 to 2022. I think it is quite important for people to learn about the change in proportional fatalities/vulnerability over the years. To visualize this newly found fact, I chose to use bar charts with icons to show the change between 2020 and 2022 directly, which I think is more intuitive for people when learning this fact. I don't use the pie chart in this case since the absolute numeric changes are not that much -- even though a 12% proportional fatalities increase to pedestrians actually means a great difference -- so a pie chart cannot show such changes well and will make it hard for people to compare proportions in two different years. 
 
 - **Conclusion/Call to Action**
 
