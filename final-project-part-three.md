@@ -6,11 +6,11 @@ Shorthand Link: [https://preview.shorthand.com/j9eDxYmtQYQrQwbH](https://preview
 
 # Changes made since Part II
 
-I changed almost all of my visualizations from Part II. Here is the details and rationale:
+I changed almost all of my visualizations from Part II. Here are the details and rationale:
 
 - **Basic**
 
-  + Aside from Tableau, I used Common Ninja and Flourish as visualization tools since I found them fit better with Shorthand in terms of size and interaction. I found although Tableau is good at dealing with large dataset and doing some initial sketches and EDA to observe the patterns and distributions of variables, these online tools, Common Ninja and Flourish, provides more options for visualization and are more flexible if and only if I can narrow down the range/size of data to show -- they are not convenient or not able to use an imported data. Therefore, when I used these online tools, I just manually entered the data that I wanted to show. However, the drawback is the free plan of Common Ninja cannot hide the ads, which is relatively evident (but acceptable, I think)...
+  + Aside from Tableau, I used Common Ninja and Flourish as visualization tools since I found them fit better with Shorthand in terms of size and interaction. I found although Tableau is good at dealing with large datasets and doing some initial sketches and EDA to observe the patterns and distributions of variables, these online tools, Common Ninja and Flourish, provide more options for visualization and are more flexible if and only if I can narrow down the range/size of data to show -- they are not convenient or not able to use an imported data. Therefore, when I used these online tools, I just manually entered the data that I wanted to show. However, the drawback is the free plan of Common Ninja cannot hide the ads, which is relatively evident (but acceptable, I think)...
   + Changed the background color for all of my visualizations to better sync the theme color.
   + Deleted the news section based on feedback from Part II.
   + Changed the layout of the entire storyboard to be vertical in all sections for consistency.
