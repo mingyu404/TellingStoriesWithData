@@ -2,7 +2,7 @@
 
 # The final data story
 
-Shorthand Link: [https://preview.shorthand.com/j9eDxYmtQYQrQwbH](https://preview.shorthand.com/j9eDxYmtQYQrQwbH)
+Shorthand Link: [https://carnegiemellon.shorthandstories.com/vehicle-collisions-new-yorks-traffic-challenge/](https://carnegiemellon.shorthandstories.com/vehicle-collisions-new-yorks-traffic-challenge/)
 
 # Changes made since Part II
 
